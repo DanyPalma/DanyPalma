@@ -1,8 +1,7 @@
-### I code and design in my free time
+
 ### Design using KiCAD, AutoCad 2020 or Fusion360
 ### Render Everything in Fusion360 and/or Blender
-### Cars, Keyboards, and Anime :3
-### 16 B)
+### No clue what i am doing
 
 <!--
 **DanyPalma/DanyPalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
