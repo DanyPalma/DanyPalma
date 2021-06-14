@@ -3,7 +3,7 @@
 ### Render in Fusion360 and/or Blender
 ### No clue what i am doing
 
-[![Dany's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanyPalma)](https://github.com/anuraghazra/github-readme-stats)
+[![Dany's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanyPalma&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
