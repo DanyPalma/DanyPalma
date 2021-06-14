@@ -1,7 +1,10 @@
 
 ### Design using KiCAD, AutoCad 2020 or Fusion360
-### Render Everything in Fusion360 and/or Blender
+### Render in Fusion360 and/or Blender
 ### No clue what i am doing
+
+[![Dany's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanyPalma)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **DanyPalma/DanyPalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
