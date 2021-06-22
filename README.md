@@ -1,4 +1,4 @@
-![Banner](https://imgur.com/a/HJjulDI)
+![Banner](https://i.imgur.com/s2eOm5N.png)
 
 ### Design using KiCAD, AutoCad 2020 or Fusion360
 ### Render in Fusion360 and/or Blender
