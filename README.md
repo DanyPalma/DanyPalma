@@ -1,10 +1,23 @@
 ![Banner](https://i.imgur.com/s2eOm5N.png)
 
-### Design using KiCAD, AutoCad 2020 or Fusion360
-### Render in Fusion360 and/or Blender
-### Always trying to learn and grow as a person
+# Computer Science student @ University of Central Florida
+  ### Modeling is done in Fusion360
+    Looking for new design commission and/or design optimization projects
+    
+    feel free to contact me on discord (DNWMN#8684)
+
+  ### Always trying to learn and grow as a person
+ 
+    I'm current learning about data analysis and C/C++
+
+
+
+[Connect with me!](https://www.linkedin.com/in/danypalma/)
+
 
 [![Dany's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanyPalma&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <!--
