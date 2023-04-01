@@ -1,36 +1,21 @@
-![Banner](https://i.imgur.com/s2eOm5N.png)
+<h2> Hi, I'm Daniel Palma!</h2>
 
-# Computer Science student @ University of Central Florida
-  ### Modeling is done in Fusion360
-    Looking for new design commission and/or design optimization projects
-    
-    feel free to contact me on discord (DNWMN#8684)
-
-  ### Always trying to learn and grow as a person
- 
-    I'm current learning about data analysis and C/C++
+[![Linkedin: danypalma](https://img.shields.io/badge/-danypalma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danypalma/)](https://www.linkedin.com/in/danypalma/)
+[![GitHub Dany](https://img.shields.io/github/followers/danypalma?label=follow&style=social)](https://github.com/DanyPalma)
 
 
+### A little more about me...  
 
-[Connect with me!](https://www.linkedin.com/in/danypalma/)
+```javascript
+const dany = {
+  pronouns: "he" | "him",
+  code: [C, HTML, CSS, Python],
+  techCommunities: {
+                        member: [Knight Hacks, SHPE]
+                      },
+ challenge: "I am learning Python focused on mastering data structures and algorithms",
+ todo: "Java is next on my list of languages to learn"
+}
+```
 
-
-[![Dany's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanyPalma&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-<!--
-**DanyPalma/DanyPalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
