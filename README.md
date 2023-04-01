@@ -10,6 +10,7 @@
 const dany = {
   pronouns: "he" | "him",
   code: [C, HTML, CSS, Python],
+  favorites: [Macaques, Open Source],
   techCommunities: {
                         member: [Knight Hacks, SHPE]
                       },
